@@ -5,5 +5,6 @@ int biggest2(int a, int b) {
         return a;
     else
         return b;
+#nothing
 }
 
